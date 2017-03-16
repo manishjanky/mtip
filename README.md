@@ -4,7 +4,8 @@ A flexible, simple and extensible Javascript plugin for custom tooltips by Manis
 #### Mozilla Firefox
 #### Google Chrome, 
 #### IE8+ 
-#### Others.
+#### Safari
+#### Opera
 
 No Jquery required.
 Fully Customizable with available options
