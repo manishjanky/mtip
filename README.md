@@ -1,12 +1,5 @@
 # mTip
 A flexible, simple and extensible Javascript plugin for custom tooltips by Manish Kumar under MIT license.
-###Compatible with 
+
+###Compatible With
 ####Mozilla Firefox
-####Google Chrome
-####IE8+ 
-####Others.
-
-No Jquery required.
-Fully Customizable with available options
-
-###More Features Coming Soon.
