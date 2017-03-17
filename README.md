@@ -73,7 +73,14 @@ mTip gives you a range of options which you can use to customize your tooltips t
                 </script>
 ```
 Below is the list of currently available options. More to come soon.
+
 Option               | Accepted Values                                           | Description
 -------------------- | ----------------------------------- |--------------------------------------
-backgroundColor      |Any valid html color in hexadecimal/rgb(0,0,0)/nameOfColor |Sets the background color of the mTip tooltip
+backgroundColor      | ny valid html color in hexadecimal/rgb(0,0,0)/nameOfColor | Sets the background color of the mTip tooltip
+color                | Any valid html color in hexadecimal/rgb(0,0,0)/nameOfColor| Sets the forecolor/textcolor of the mTip tooltip text
+delay                | Any valid integer                                         | Delays the appearence of the tooltip for the number of miliseconds passed as the value of the delay parameter.
+opacity              | Any valid integer between 0 - 1                           | Sets the opacity of the tooltip i.e gives transparency to the tooltip with 0 being transparent and 1 being opaque. Also using this can affect the transparency of contents of the tooltip
+position             | bottom, left, right, top                                  | This parameter is used to position the mTip tooltip. Based on the value of the option the tooltip position is either bottom, left, right or top.
+selector             | Any valid CSS Selector                                    | This parameter is used to initialize tooltip only on those elements which are identified by the selector as passed in the options for example:- use '.className' for selecting elemets having class as 'className'.
+trigger              | click, hover                                              | This parameter is used to tell mTip when to show the tooltip i.e based on the value passes the tooltip is shown either on click of the element or mouse hover.
 #### More Features Coming Soon.
