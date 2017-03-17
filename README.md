@@ -9,4 +9,14 @@ A flexible, simple and extensible Javascript plugin for custom tooltips by Manis
 No Jquery required.
 Fully Customizable with available options
 
+# Getting Strated
+
+### Download & Include mTip.js
+After you Download mTip include mTip.js files in your html.
+
+```javascript
+      <head>
+             <script type="text/javascript" src="mTip/mTip.js"></script>
+      </head>
+ ```
 #### More Features Coming Soon.
