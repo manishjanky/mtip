@@ -1,5 +1,5 @@
 # [mTip](https://manishjanky.github.io/#/mtip)
-A flexible, simple and extensible Javascript plugin for custom tooltips by Manish Kumar under MIT license.
+A flexible, simple,cross browser and extensible Javascript plugin for javascript custom tooltips by Manish Kumar under MIT license.
 ### Compatible with 
 #### Mozilla Firefox
 #### Google Chrome, 

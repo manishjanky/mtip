@@ -1,0 +1,31 @@
+{
+       "name": "mTip",
+       "version": "0.0.1",
+       "description": "A flexible, simple,cross browser and extensible Javascript plugin for javascript custom tooltips.",
+       "license": "MIT",
+       "keywords": [
+         "mTip",
+         "mtip",
+         "tooltip",
+         "javascript",
+         "tooltips",
+         "customizable ",
+         "jquery",
+         "custom",
+         "html",
+         "html5"
+       ],
+       "author": {
+         "name": "Manish Kumar",
+         "email": "manishjanky@gmail.com"
+       },
+       "repository": {
+         "type": "git",
+         "url": "https://github.com/manishjanky/mTip.git"
+       },
+       "bugs": {
+         "url": "https://github.com/manishjanky/mTip/issues"
+       },
+       "homepage": "https://github.com/manishjanky/mTip#readme",
+       "demo":"https://manishjanky.github.io/#/mtip"
+     }
