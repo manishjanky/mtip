@@ -7,13 +7,16 @@
          "mTip",
          "mtip",
          "tooltip",
-         "javascript",
+         "javascript-plugin",
          "tooltips",
          "customizable ",
          "jquery",
          "custom",
          "html",
-         "html5"
+         "html5",
+         "custom-tooltip",
+         "plugin"
+
        ],
        "author": {
          "name": "Manish Kumar",
